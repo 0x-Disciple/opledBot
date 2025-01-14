@@ -7,5 +7,7 @@ const banner = `
  ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝    ╚═════╝     ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝
                                                                                   
                         Running Open-Ledger CLI Version                
-                 t.me/zlkcybergroup *** github.com/zlkcyber                   \n`
+                        t.me/CryptoKidzs                             \n`
+                        ScriptBy: zlkcyber
+
 export default banner;
