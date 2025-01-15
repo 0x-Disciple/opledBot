@@ -8,7 +8,7 @@ const banner = `
                                                                                           
                                                                                   
                 openLedger automation cli
-                t.me/CryptoKidzs
-                AuthorBy: zlkcyber                \n`
+                   t.me/CryptoKidzs
+                Presented By: zlkcyber               \n`
 
 export default banner;
